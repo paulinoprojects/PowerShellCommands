@@ -6,10 +6,10 @@ PowerShell runs on Windows, Linux, and macOS
 Reference: https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.2
 __________________________________________________________________
 Basic Syntax:
-<command-name> -<Required Parameter Name> <Required Parameter Value>
-[-<Optional Parameter Name> <Optional Parameter Value>]
-[-<Optional Switch Parameters>]
-[-<Optional Parameter Name>] <Required Parameter Value>
+      <command-name> -<Required Parameter Name> <Required Parameter Value>
+      [-<Optional Parameter Name> <Optional Parameter Value>]
+      [-<Optional Switch Parameters>]
+      [-<Optional Parameter Name>] <Required Parameter Value>
 __________________________________________________________________
 
 Most-used commands:

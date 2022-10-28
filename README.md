@@ -11,8 +11,7 @@ Most-used commands:
 -     Get-Command | export-csv c:\temp\AllCommands.csv
 
 - <b>Get-Help</b>: quick access to the information you need to run and work with all of the available commands.
--     Get-Help [[-Name] <String>] [-Path <String>] [-Category <String[]>] [-Component <String[]>]
-[-Functionality <String[]>] [-Role <String[]>] [-Examples] [<CommonParameters>]
+-     Get-Help [[-Name] <String>] [-Path <String>] [-Category <String[]>] [-Component <String[]>][-Functionality <String[]>] [-Role <String[]>] [-Examples][<CommonParameters>]
       
 - <b>Get-EventLog</b>:  parse your machine’s event logs using the Get-EventLog cmdlet. There are several parameters available. Use the -Log switch followed by the name of the log file to view a specific log.
 -     Get-EventLog -Log "Application"

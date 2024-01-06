@@ -1,17 +1,19 @@
 # PowerShellCommands
-A list of useful PowerShell CMDs / Windows Powershell ISE
-PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. 
-PowerShell runs on Windows, Linux, and macOS
+This course will provide foundational information to use PowerShell in the conduct of Defensive Cyberspace Operations (DCO). 
+﻿
+The following PowerShell functions / capabilities are covered:
+- The Command Line
+- Cmdlet Structure (Verb-Noun)
+- Start-Transcript
+- Help (Get-Help)
+- Alias and Variables
+- Commonly used Cmdlets for DCO (basic)
+- The Pipe and Other Operators
+- Logic and Filtering
 
-Reference: https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.2
-__________________________________________________________________
-
-Most-used commands:
-- <b>Get-Command | export-csv c:\temp\AllCommands.csv</b> : Get-Command is an easy-to-use reference cmdlet that brings up all the commands available for use in your current session.
--     Get-Command | export-csv c:\temp\AllCommands.csv
-
-- <b>Get-Help</b>: quick access to the information you need to run and work with all of the available commands.
--     Get-Help [[-Name] <String>] [-Path <String>] [-Category <String[]>] [-Component <String[]>][-Functionality <String[]>] [-Role <String[]>] [-Examples][<CommonParameters>]
-      
-- <b>Get-EventLog</b>:  parse your machine’s event logs using the Get-EventLog cmdlet. There are several parameters available. Use the -Log switch followed by the name of the log file to view a specific log.
--     Get-EventLog -Log "Application"
+## Objectives
+﻿After completing this course you should have the foundational knowledge to use PowerShell to conduct basic Defensive Cyberspace Operations (DCO) tasks.  Including the following:
+Basic understanding of PowerShell functionality
+Ability to leverage PowerShell to retrieve desired information for analysis.
+Basic understanding of PowerShell logic and functions.
+Ability to create complex one-liners in support of DCO activities

@@ -1,0 +1,11 @@
+# Common Terminology & Definitions 
+- cmdlet - a PowerShell command that performs a specific action
+- command - a string of PowerShell or other native commands used to perform an action
+- parameters - an option, that may specify how a cmdlet should function or is used to assign a variable, added directly after a cmdlet (separated by a space) and begin with a -   
+- parameter value - (also known as argument) - the value given to a parameter (separated from the parameter by a space) and passed into a variable
+- variable - a reference to a space in memory that stores a specified value 
+- switch - a parameter that does not require an argument and is used to adjust the function of a cmdlet, function or logic.
+- Alias - a short-cut / representation of a cmdlet or command
+- Object - An entity that is made up of property and functions that define it.
+- Property - information about an object or data that represents a part of an object.
+- Function (sometimes called Methods) -An action that can done on an object.

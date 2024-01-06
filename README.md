@@ -1,5 +1,5 @@
 # PowerShellCommands
-This course will provide foundational information to use PowerShell in the conduct of Defensive Cyberspace Operations (DCO). 
+This course will provide foundational information to use PowerShell in the conduct of Defensive Cyberspace Operations (DCO). Course is designed to be taken in chronological order.
 ﻿
 The following PowerShell functions / capabilities are covered:
 - The Command Line

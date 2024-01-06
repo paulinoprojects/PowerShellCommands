@@ -13,7 +13,7 @@ The following PowerShell functions / capabilities are covered:
 
 ## Objectives
 ﻿After completing this course you should have the foundational knowledge to use PowerShell to conduct basic Defensive Cyberspace Operations (DCO) tasks.  Including the following:
- Basic understanding of PowerShell functionality
- Ability to leverage PowerShell to retrieve desired information for analysis.
- Basic understanding of PowerShell logic and functions.
- Ability to create complex one-liners in support of DCO activities
+ - Basic understanding of PowerShell functionality
+ - Ability to leverage PowerShell to retrieve desired information for analysis.
+ - Basic understanding of PowerShell logic and functions.
+ - Ability to create complex one-liners in support of DCO activities

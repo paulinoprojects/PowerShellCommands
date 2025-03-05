@@ -1,5 +1,6 @@
 # PowerShell Crash Course for New Administrators (1 Hour)
--This repo is a crash course of powershell for new windows admins to automate redundant, tedious tasks
+- This repo contains Powershell basics for new Windows admins to automate redundant, tedious tasks.
+- Start with this README that sets the learning flow for the materials in this repo. 
 
 ## 0-10 min: Introduction to PowerShell
 
